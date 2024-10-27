@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1678901444 source:c:\users\mmm\documents\my games\contact book application\main.cpp
+	<iostream>
+	"ContactBook.h"
+	<string.h>
+
+1679067024 source:c:\users\mmm\documents\my games\contact book application\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+
+1678899933 c:\users\mmm\documents\my games\contact book application\include\contactbook.h
+	<iostream>
+	"Phone.h"
+	"Contact.h"
+
+1678808394 c:\users\mmm\documents\my games\contact book application\include\phone.h
+	<iostream>
+	<string.h>
+
+1679065082 c:\users\mmm\documents\my games\contact book application\include\contact.h
+	<iostream>
+	<string>
+	"Phone.h"
+
+1678808283 source:c:\users\mmm\documents\my games\contact book application\src\phone.cpp
+	"Phone.h"
+
+1679067352 source:c:\users\mmm\documents\my games\contact book application\src\contact.cpp
+	"Contact.h"
+
+1678901444 source:c:\users\mmm\documents\projects\contact book application\main.cpp
+	<iostream>
+	"ContactBook.h"
+	<string.h>
+
+1678899933 c:\users\mmm\documents\projects\contact book application\include\contactbook.h
+	<iostream>
+	"Phone.h"
+	"Contact.h"
+
+1678808394 c:\users\mmm\documents\projects\contact book application\include\phone.h
+	<iostream>
+	<string.h>
+
+1679844670 c:\users\mmm\documents\projects\contact book application\include\contact.h
+	<iostream>
+	<string>
+	"Phone.h"
+
+1679844670 source:c:\users\mmm\documents\projects\contact book application\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+
+1678808283 source:c:\users\mmm\documents\projects\contact book application\src\phone.cpp
+	"Phone.h"
+
+1679838399 source:c:\users\mmm\documents\projects\contact book application\src\contact.cpp
+	"Contact.h"
+
+1678905044 source:e:\projects\contact book application\main.cpp
+	<iostream>
+	"ContactBook.h"
+	<string.h>
+
+1678903533 e:\projects\contact book application\include\contactbook.h
+	<iostream>
+	"Phone.h"
+	"Contact.h"
+
+1678811994 e:\projects\contact book application\include\phone.h
+	<iostream>
+	<string.h>
+
+1679848270 e:\projects\contact book application\include\contact.h
+	<iostream>
+	<string>
+	"Phone.h"
+
+1682340220 source:e:\projects\contact book application\src\contact.cpp
+	"Contact.h"
+
+1679848270 source:e:\projects\contact book application\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+
+1678811883 source:e:\projects\contact book application\src\phone.cpp
+	"Phone.h"
+
